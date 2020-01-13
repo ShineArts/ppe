@@ -1,0 +1,104 @@
+{
+"utilisateurs": [{
+"id": "64",
+"statut": "1",
+"identifiant": "Admin",
+"nom": "Admin",
+"prenom": "Jean",
+"num_telephone": "0782677229",
+"courriel": "admin@karimandco.com",
+"date_de_naissance": "26-09-2018",
+"photo": "com.mysql.jdbc.Blob@7dc5e7b4"
+},
+{
+"id": "177",
+"statut": "0",
+"identifiant": "TomLeal",
+"nom": "Leal",
+"prenom": "Tom",
+"num_telephone": "0606060606",
+"courriel": "tomleal@gmail.com",
+"date_de_naissance": "10-07-2000",
+"photo": "com.mysql.jdbc.Blob@1ee0005"
+},
+{
+"id": "179",
+"statut": "0",
+"identifiant": "damien",
+"nom": "Fregolent",
+"prenom": "Damien",
+"num_telephone": "0606066066",
+"courriel": "fregolentdamien@gmail.com",
+"date_de_naissance": "30-06-2000",
+"photo": "com.mysql.jdbc.Blob@75a1cd57"
+},
+{
+"id": "186",
+"statut": "0",
+"identifiant": "flooo",
+"nom": "bubu",
+"prenom": "floflo",
+"num_telephone": "0611365007",
+"courriel": "flo@gmail.com",
+"date_de_naissance": "10-10-2000",
+"photo": "com.mysql.jdbc.Blob@3d012ddd"
+},
+{
+"id": "190",
+"statut": "0",
+"identifiant": "baba",
+"nom": "baba",
+"prenom": "baba",
+"num_telephone": "0604140562",
+"courriel": "baba@gmail.com",
+"date_de_naissance": "01-11-2000",
+"photo": "com.mysql.jdbc.Blob@6f2b958e"
+},
+{
+"id": "191",
+"statut": "0",
+"identifiant": "a",
+"nom": "c",
+"prenom": "d",
+"num_telephone": "e",
+"courriel": "f",
+"date_de_naissance": "02-11-2019",
+"photo": "com.mysql.jdbc.Blob@1eb44e46"
+}
+],"cv": [{
+"id": "14",
+"titre": "dzqdqzdqdqzdqzzd",
+"description": "zdqzdqzdzdqz",
+"signature": "ATCHOUM Atchoum",
+"nom_maitrise": "zd",
+"maitrise": "59",
+"id_utilisateur": "64"
+}
+],"experience_pro": [{
+"id": "17",
+"entreprise": "qzdq",
+"adresse": "zdqzdq",
+"description": "qzdqzdzdqz",
+"annee_debut": "01-01-2019",
+"annee_fin": "01-01-2019",
+"id_cv": "14"
+}
+],"formation": [{
+"id": "27",
+"nom": "zdqzd",
+"lieu": "qzdq",
+"description": "qzdzqdq",
+"annee_debut": "01-01-2019",
+"annee_fin": "01-01-2019",
+"id_cv": "14"
+},
+{
+"id": "28",
+"nom": "dqzdzq",
+"lieu": "zqdqzdzq",
+"description": "zdqz",
+"annee_debut": "01-01-2019",
+"annee_fin": "01-01-2019",
+"id_cv": "14"
+}
+]}

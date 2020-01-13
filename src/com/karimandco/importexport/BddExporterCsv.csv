@@ -1,0 +1,7 @@
+id; statut; identifiant; nom; prenom; num_telephone; courriel; date_de_naissance; photo
+64; 1; Admin; Admin; Jean; 0782677229; admin@karimandco.com; 26-09-2018; com.mysql.jdbc.Blob@1963006a
+177; 0; TomLeal; Leal; Tom; 0606060606; tomleal@gmail.com; 10-07-2000; com.mysql.jdbc.Blob@7fbe847c
+179; 0; damien; Fregolent; Damien; 0606066066; fregolentdamien@gmail.com; 30-06-2000; com.mysql.jdbc.Blob@41975e01
+186; 0; flooo; bubu; floflo; 0611365007; flo@gmail.com; 10-10-2000; com.mysql.jdbc.Blob@c2e1f26
+190; 0; baba; baba; baba; 0604140562; baba@gmail.com; 01-11-2000; com.mysql.jdbc.Blob@dcf3e99
+191; 0; a; c; d; e; f; 02-11-2019; com.mysql.jdbc.Blob@6d9c638
